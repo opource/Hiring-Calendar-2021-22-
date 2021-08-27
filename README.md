@@ -13,7 +13,7 @@
 | Twitter DevelopHer | SDE | Internships and Full Time | - | - | Off- campus | closed | [Link](https://join.smartrecruiters.com/Twitter2/5485dd2b-817e-41ac-ad36-33735b8c2b68-developher2021india) | 2023/2022 pass-outs (Female) | 
 | D.E Shaw and Group | DESIS Ascend Educare 2021  | Row 3 Column 3 | - | - | Off-campus | open | [Link](https://www.deshaw.com/forms/OERCQTZFNjEtQUIyQi00ODkwLTlBODktMkU2MDQ1NzQwRUE4) | 2023/2024 pass-outs (Female) |
 | Outreachy  | Open Source Program | Internship | - | *September 3 at 4pm UTC* | off-campus | open | [Link](https://www.outreachy.org/) | Final Semester Female Grads |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| BNY Mellon | SDE | Internship and Full Time | - | - | Off-Campus Coding Challenge | Open | [Link](https://assessment.hackerearth.com/challenges/hiring/code-divas-diversity-challenge-2021/) | 2023 and 2022 females |
 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
